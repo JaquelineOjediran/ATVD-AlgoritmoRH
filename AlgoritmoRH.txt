@@ -1,0 +1,29 @@
+início
+
+Exiba "Digite o nome: "
+Guardar valor inserido numa variavel string chamada nome
+Exiba "Digite a idade: "
+Guardar valor inserido numa variavel int chamada idade
+Exiba "Digite a quantidade de filhos: "
+Guardar valor inserido numa variavel int chamada qtd_filhos
+Exiba "Digite o estado civil: "
+Guardar valor inserido numa variavel string chamada estado_civil
+Exiba "Digite a há quantos anos trabalha na empresa: "
+Guardar valor inserido numa variavel int chamada tempo_empresa
+Exiba "Digite o salário: "
+Guardar valor inserido numa variavel double chamada salario
+Exiba "Sobre o(a) funcionário(a)" + variavel nome, ":"
+Analisar se a idade > 60 
+Se sim, exiba "Possui direito ao plano de aposentadoria"
+Senão, exiba "Não possui direito ao plano de aposentadoria"
+Analisar se qtd_filhos > 0
+Se sim, exiba "Possui direito ao Auxílio Família"
+Senão, exiba "Não possui direito ao Auxílio Família"
+Analisar se tempo_empresa > 5
+Se sim, exiba "Possui direito ao abono Salarial"
+Senão, exiba "Não possui direito ao abono Salarial"
+Analisar salario > 4300
+Se sim, exibir "Possui direito ao Seguro de Vida e Seguro Saúde"
+Senão, exiba "Não possui direito ao Seguro de Vida e Seguro Saúde"
+
+fim
